@@ -11,5 +11,12 @@
     "eventproxy": "^0.3.4",
     "express": "^4.9.5",
     "superagent": "^2.3.0"
+  },
+  "devDependencies": {
+    "fs": "0.0.1-security",
+    "nodemailer": "^5.1.1",
+    "path": "^0.12.7",
+    "superagent-charset": "^1.2.0",
+    "utility": "^1.15.0"
   }
 }
